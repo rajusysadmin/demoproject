@@ -1,0 +1,3 @@
+controllers\ApplicationController.class
+conf\Module.class
+conf\Routes.class
